@@ -1,4 +1,5 @@
 # Luba's notes
+taken by [me](https://github.com/LiubovKleimenova) for the [LighthouseLabs](https://www.lighthouselabs.ca)
 #### another header
 
 ## Summary 
